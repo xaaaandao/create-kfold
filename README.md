@@ -1,4 +1,4 @@
-# create-k-fold
+# create-kfold
 
 separa os dados em k validações cruzadas e separa os dados em treinamento e teste
 
